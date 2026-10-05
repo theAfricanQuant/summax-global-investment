@@ -115,6 +115,7 @@ body > h2#team {
   letter-spacing: -.065em;
   line-height: .92;
 }
+.hero-brand { display: block; width: clamp(148px, 15vw, 206px); height: auto; margin-bottom: 1.9rem; }
 .hero-copy > p:not(.kicker) { max-width: 40ch; color: var(--muted); font-size: 1.06rem; }
 .hero-actions { display: flex; align-items: center; gap: 1.3rem; margin: 2rem 0 3.2rem; flex-wrap: wrap; }
 .button { display: inline-block; padding: .9rem 1.1rem; text-decoration: none; font-weight: 700; }
@@ -169,7 +170,7 @@ body > h2#team {
 .contact-details { display: grid; gap: .7rem; justify-items: start; }
 .contact-details a, .contact-details span { color: #fff; text-decoration: none; border-bottom: 1px solid rgba(255,255,255,.45); padding-bottom: .2rem; }
 footer { display: flex; justify-content: space-between; gap: 1rem; align-items: center; padding-block: 3rem; margin-top: var(--section); color: var(--muted); font-size: .75rem; border-top: 1px solid var(--line); }
-footer img { width: 60px; max-height: 42px; object-fit: contain; }
+footer img { width: 92px; height: auto; }
 footer span:nth-child(2) { margin-right: auto; }
 @media (max-width: 850px) {
   .hero { grid-template-columns: 1fr; padding-top: 3.5rem; }
@@ -206,7 +207,8 @@ footer span:nth-child(2) { margin-right: auto; }
 
 /* Shared site navigation */
 .site-nav { width: 100%; min-height: 72px; padding: 0 var(--gutter); display: flex; align-items: center; justify-content: space-between; gap: 2rem; background: rgba(243,241,235,.94); border-bottom: 1px solid var(--line); backdrop-filter: blur(14px); position: sticky; top: 0; z-index: 5; }
-.site-nav-brand img { display: block; width: 76px; max-height: 48px; object-fit: contain; }
+.site-nav-brand { display: flex; align-items: center; }
+.site-nav-brand img { display: block; height: 27px; width: auto; }
 .site-nav-links { display: flex; align-items: center; gap: 1.6rem; }
 .site-nav-links a { color: var(--ink); text-decoration: none; font-size: .82rem; letter-spacing: .04em; }
 .site-nav-links a:hover { color: var(--accent-dark); }
@@ -307,7 +309,7 @@ footer span:nth-child(2) { margin-right: auto; }
 /* Narrow phones: keep the display type inside the 320px content box. */
 @media (max-width: 380px) {
   .hero h1, .page-hero h1 { font-size: 3rem; }
-  .site-nav-brand img { width: 54px; }
+  .site-nav-brand img { height: 23px; }
   .site-nav-links a { font-size: .78rem; }
 }
 /* Mobile browsers size 100vh to the largest possible viewport, so a
