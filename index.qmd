@@ -113,7 +113,7 @@ Summax Global Investment is an Abuja-based team of allied building professionals
 <h3>Engr. Chima Nwoke</h3><p>Chief Executive Officer</p>
 :::
 ::: {.person-card}
-![](assets/people/maxwell-ihechineme.png){fig-alt="Portrait of Arc. Maxwell Ihechineme"}
+![](assets/people/maxwell-ihechineme.jpg){fig-alt="Portrait of Arc. Maxwell Ihechineme"}
 <h3>Arc. Maxwell Ihechineme</h3><p>Chief Architect</p>
 :::
 :::
