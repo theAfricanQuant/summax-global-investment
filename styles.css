@@ -55,9 +55,35 @@ body::before {
 }
 #quarto-content { padding: 0; }
 main.content { max-width: none; padding: 0; }
-/* Top-level blocks share one gutter. Nested grids simply fill their parent. */
-.hero, .intro-band, .approach-strip, .page-shell, #services, #projects, #team, #contact, footer {
+/* One gutter for every top-level block. Direct body-child selectors mean
+   nested grids (e.g. .team-grid inside .team-layout) fill their parent
+   instead of being inset a second time. */
+body > .hero,
+body > .intro-band,
+body > .approach-strip,
+body > .section-heading,
+body > .services-grid,
+body > .project-grid,
+body > .project-detail,
+body > .team-layout,
+body > .contact-panel,
+body > .page-shell,
+body > footer {
   margin-inline: var(--gutter);
+}
+/* The markdown section headings carry the anchor ids; .section-heading holds
+   the visible heading. Kept in the accessibility tree, hidden visually. */
+body > h2#services,
+body > h2#projects,
+body > h2#team {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  white-space: nowrap;
+  clip-path: inset(50%);
 }
 .hero {
   min-height: calc(100vh - 72px);
@@ -105,8 +131,7 @@ main.content { max-width: none; padding: 0; }
 .intro-band h2, .section-heading h2, .project-detail h2, .team-intro h2, .contact-panel h2 { margin: 0; font-family: Georgia, "Times New Roman", serif; font-size: clamp(2.2rem, 4vw, 4.5rem); font-weight: 400; letter-spacing: -.05em; line-height: .98; }
 .intro-band p, .section-heading p, .project-detail p, .team-intro p, .contact-panel p { max-width: 54ch; color: var(--muted); }
 section h2 { scroll-margin-top: 100px; }
-#services, #projects, #team, #contact { padding-top: var(--section); }
-.section-heading { display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; align-items: end; margin-bottom: 3rem; }
+.section-heading { display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; align-items: end; margin-bottom: 3rem; padding-block-start: var(--section); }
 .services-grid { display: grid; grid-template-columns: .9fr 1.1fr; gap: 3rem; border-top: 1px solid var(--line); padding-top: 2rem; }
 .service-feature { background: var(--deep); color: #f8f4ec; padding: 3rem; min-height: 310px; }
 .service-feature .service-number { color: #f0a16f; }
@@ -127,9 +152,9 @@ section h2 { scroll-margin-top: 100px; }
 .project-copy h3 { margin: 0 0 .15rem; font-size: 1.05rem; font-weight: 700; }
 .project-copy p, .project-copy span { margin: 0; color: var(--muted); font-size: .82rem; }
 .project-copy span { display: block; margin-top: .65rem; color: var(--accent-dark); }
-.project-detail { display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); margin-top: 5rem; padding: 3rem 0; }
+.project-detail { display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); margin-top: var(--section); padding: 3rem 0; }
 .project-detail .kicker { display: block; margin-bottom: 1rem; }
-.team-layout { display: grid; grid-template-columns: .8fr 1.2fr; gap: 4rem; align-items: start; }
+.team-layout { display: grid; grid-template-columns: .8fr 1.2fr; gap: 4rem; align-items: start; padding-block-start: var(--section); }
 .team-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
 .person-card { background: var(--surface); }
 .person-card img { display: block; width: 100%; height: 330px; object-fit: cover; object-position: top; filter: grayscale(.12); }
