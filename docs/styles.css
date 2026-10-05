@@ -246,32 +246,25 @@ footer span:nth-child(2) { margin-right: auto; }
 .archive-group-head h2 { margin: 0; font-family: Georgia, "Times New Roman", serif; font-size: clamp(1.6rem, 2.6vw, 2.4rem); font-weight: 400; letter-spacing: -.03em; }
 .archive-group-head > span { color: var(--muted); font-size: .82rem; }
 .archive-group-head .count { color: var(--accent-dark); font-variant-numeric: tabular-nums; }
-/* Masonry columns, each photo at its own aspect ratio. The old fixed 190px
-   frame cropped a portrait to the middle third of its height - enough to cut
-   the top off a head - and no single ratio suits both a 0.52 portrait and a
-   2.0 landscape, so nothing is cropped now. */
-.source-archive-grid { columns: 4; column-gap: 1rem; }
-.source-archive-card { break-inside: avoid; margin: 0 0 1rem; background: var(--surface); }
-.source-archive-card img { display: block; width: 100%; height: auto; filter: saturate(.82); }
+/* One uniform grid: every card is exactly the same size, so the page reads as
+   an ordered catalogue rather than a ragged collage. The archive mixes 35
+   landscape and 18 portrait photos, and the frame is square because that is
+   the shape this set can actually carry: a 3:2 landscape frame (the shape
+   arabcont.com uses) would leave the tallest portrait showing only 35% of its
+   height, while a square frame keeps 45 of the 53 photos within a quarter of
+   their full height. Portraits hang from the top so heads stay in frame;
+   landscapes sit centred. */
+.source-archive-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1rem; }
+.source-archive-card { margin: 0; background: var(--surface); }
+.source-archive-card img {
+  display: block; width: 100%; aspect-ratio: 1 / 1; height: auto;
+  object-fit: cover; object-position: center; filter: saturate(.82);
+}
 .source-archive-card figcaption { padding: .75rem .85rem .95rem; }
 .source-archive-card strong { font-size: .83rem; font-weight: 600; line-height: 1.25; }
-
-/* The two Management portraits sit side by side, so they share one frame
-   rather than keeping their own ratios (0.71 and 0.52), which made them
-   different heights. They keep the archive's own column width so they match
-   the other cards, and 4:5 fits both faces: the tighter photo is 0.52 and
-   keeps 65% of its height under top-alignment, still clearing the chin. */
-.archive-group--people .source-archive-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1rem; }
-.archive-group--people .source-archive-card { margin: 0; }
-.archive-group--people .source-archive-card img {
-  aspect-ratio: 4 / 5; height: auto; object-fit: cover; object-position: center top;
-}
-@media (max-width: 850px) {
-  .archive-group--people .source-archive-grid { grid-template-columns: repeat(2, 1fr); }
-}
-@media (max-width: 560px) {
-  .archive-group--people .source-archive-grid { grid-template-columns: 1fr; }
-}
+/* The Management portraits are the only photos where a face fills the frame,
+   so they hang from the top edge rather than the centre. */
+.archive-group--people .source-archive-card img { object-position: center top; }
 
 /* Touch devices get 44px-tall targets; phones also swap the long CTA label
    for a short one and stack the bar, so it still fits at 320px. */
@@ -295,12 +288,12 @@ footer span:nth-child(2) { margin-right: auto; }
 @media (max-width: 850px) {
   .page-hero-split, .about-columns, .about-objectives { grid-template-columns: 1fr; gap: 1.5rem; }
   .archive-group-head { grid-template-columns: 1fr auto; }
-  .source-archive-grid { columns: 2; }
+  .source-archive-grid { grid-template-columns: repeat(2, 1fr); }
 }
 @media (max-width: 560px) {
   .page-hero { padding-block: 3.5rem 3rem; }
   .page-hero h1 { font-size: 3.65rem; }
-  .source-archive-grid { columns: 1; }
+  .source-archive-grid { grid-template-columns: 1fr; }
   .archive-group-head { grid-template-columns: 1fr; gap: .2rem; }
   .about-statement { grid-template-columns: 1fr; padding: 3rem 0; }
   .about-columns { padding: 4.5rem 0; }
