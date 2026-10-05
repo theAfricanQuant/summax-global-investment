@@ -247,19 +247,23 @@ footer span:nth-child(2) { margin-right: auto; }
 .source-archive-card figcaption { padding: .75rem .85rem .95rem; }
 .source-archive-card strong { font-size: .83rem; font-weight: 600; line-height: 1.25; }
 
-/* Touch devices get 44px-tall nav targets; phones also swap the long CTA
-   label for a short one so the whole bar still fits at 320px. */
+/* Touch devices get 44px-tall targets; phones also swap the long CTA label
+   for a short one and stack the bar, so it still fits at 320px. */
 .cta-short { display: none; }
 @media (hover: none) {
   .site-nav-links a { display: flex; align-items: center; min-height: 44px; padding-inline: .6rem; }
-  a[href^="tel:"], a[href^="mailto:"] { display: inline-flex; align-items: center; min-height: 44px; }
+  a[href^="tel:"], a[href^="mailto:"], .text-link { display: inline-flex; align-items: center; min-height: 44px; }
 }
+/* The brand, three links and the CTA need 318px together - more than a 320px
+   phone has - so below 620px the links drop to their own full-width row. */
 @media (max-width: 620px) {
-  .site-nav { min-height: 64px; }
-  .site-nav-links { gap: 0; }
+  .site-nav { flex-wrap: wrap; gap: 0; row-gap: .2rem; padding-block: .45rem; }
+  .site-nav-brand { flex: 0 0 auto; }
+  .site-nav-links { flex: 1 1 100%; justify-content: space-between; gap: 0; }
+  .site-nav-links a { padding-inline: .5rem; }
   .cta-full { display: none; }
   .cta-short { display: inline; }
-  .site-nav-cta { padding-inline: .85rem !important; }
+  .site-nav-cta { padding-inline: .7rem !important; }
 }
 
 @media (max-width: 850px) {
@@ -281,8 +285,7 @@ footer span:nth-child(2) { margin-right: auto; }
 @media (max-width: 380px) {
   .hero h1, .page-hero h1 { font-size: 3rem; }
   .site-nav-brand img { width: 54px; }
-  .site-nav-links a { padding-inline: .45rem; font-size: .8rem; }
-  .site-nav-cta { padding-inline: .6rem !important; }
+  .site-nav-links a { font-size: .78rem; }
 }
 /* Mobile browsers size 100vh to the largest possible viewport, so a
    full-height hero is taller than the visible area until the user scrolls.
