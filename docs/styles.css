@@ -256,12 +256,16 @@ footer span:nth-child(2) { margin-right: auto; }
 
 /* The two Management portraits sit side by side, so they share one frame
    rather than keeping their own ratios (0.71 and 0.52), which made them
-   different heights. 4:5 fits both: the tighter photo is 0.52 and keeps 65%
-   of its height under top-alignment, still clearing the chin. */
-.archive-group--people .source-archive-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; }
+   different heights. They keep the archive's own column width so they match
+   the other cards, and 4:5 fits both faces: the tighter photo is 0.52 and
+   keeps 65% of its height under top-alignment, still clearing the chin. */
+.archive-group--people .source-archive-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1rem; }
 .archive-group--people .source-archive-card { margin: 0; }
 .archive-group--people .source-archive-card img {
   aspect-ratio: 4 / 5; height: auto; object-fit: cover; object-position: center top;
+}
+@media (max-width: 850px) {
+  .archive-group--people .source-archive-grid { grid-template-columns: repeat(2, 1fr); }
 }
 @media (max-width: 560px) {
   .archive-group--people .source-archive-grid { grid-template-columns: 1fr; }
