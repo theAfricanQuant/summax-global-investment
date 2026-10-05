@@ -87,14 +87,6 @@ title: "Projects"
 </div>
 </div>
 <div class="archive-group">
-<div class="archive-group-head"><h2>Brand and site images</h2><span>Summax Global Investment</span><span class="count">3 images</span></div>
-<div class="source-archive-grid">
-<figure class="source-archive-card"><img width="715" height="429" src="assets/source-archive/background.jpeg" loading="lazy" alt="Background image"><figcaption><strong>Background image</strong></figcaption></figure>
-<figure class="source-archive-card"><img width="400" height="400" src="assets/source-archive/log.png" loading="lazy" alt="Summax logo"><figcaption><strong>Summax logo</strong></figcaption></figure>
-<figure class="source-archive-card"><img width="400" height="200" src="assets/source-archive/summax-2.png" loading="lazy" alt="Summax mark"><figcaption><strong>Summax mark</strong></figcaption></figure>
-</div>
-</div>
-<div class="archive-group">
 <div class="archive-group-head"><h2>Furniture and interior pieces</h2><span>Summax Global Investment</span><span class="count">3 images</span></div>
 <div class="source-archive-grid">
 <figure class="source-archive-card"><img width="1400" height="788" src="assets/source-archive/car-pouch.jpg" loading="lazy" alt="Car seat pouch"><figcaption><strong>Car seat pouch</strong></figcaption></figure>
