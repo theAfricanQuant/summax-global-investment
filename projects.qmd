@@ -95,7 +95,7 @@ title: "Projects"
 </div>
 </div>
 <div class="archive-group">
-<div class="archive-group-head"><h2>Additional supplied images</h2><span>Summax Global Investment</span><span class="count">13 images</span></div>
+<div class="archive-group-head"><h2>Additional supplied images</h2><span>Summax Global Investment</span><span class="count">12 images</span></div>
 <div class="source-archive-grid">
 <figure class="source-archive-card"><img width="1400" height="1050" src="assets/source-archive/20230603-143700.jpg" loading="lazy" alt="20230603-143700"><figcaption><strong>20230603-143700</strong></figcaption></figure>
 <figure class="source-archive-card"><img width="1400" height="925" src="assets/source-archive/archd.jpg" loading="lazy" alt="archd"><figcaption><strong>archd</strong></figcaption></figure>
@@ -109,7 +109,6 @@ title: "Projects"
 <figure class="source-archive-card"><img width="1400" height="1050" src="assets/source-archive/id1.jpg" loading="lazy" alt="id1"><figcaption><strong>id1</strong></figcaption></figure>
 <figure class="source-archive-card"><img width="1400" height="1050" src="assets/source-archive/img-6175-jpg.jpg" loading="lazy" alt="img-6175-jpg"><figcaption><strong>img-6175-jpg</strong></figcaption></figure>
 <figure class="source-archive-card"><img width="1000" height="750" src="assets/source-archive/lsucom-front.jpg" loading="lazy" alt="lsucom-front"><figcaption><strong>lsucom-front</strong></figcaption></figure>
-<figure class="source-archive-card"><img width="1060" height="1400" src="assets/source-archive/max.jpg" loading="lazy" alt="Arc. Maxwell Ihechineme"><figcaption><strong>Arc. Maxwell Ihechineme</strong></figcaption></figure>
 </div>
 </div>
 </div>
