@@ -79,7 +79,7 @@ title: "Projects"
 <figure class="source-archive-card"><img width="1400" height="1050" src="assets/source-archive/constructionoflfcteenschurchinteriorpainting.jpg" loading="lazy" alt="Interior painting"><figcaption><strong>Interior painting</strong></figcaption></figure>
 </div>
 </div>
-<div class="archive-group">
+<div class="archive-group archive-group--people">
 <div class="archive-group-head"><h2>Management</h2><span>Summax Global Investment</span><span class="count">2 images</span></div>
 <div class="source-archive-grid">
 <figure class="source-archive-card"><img width="1000" height="1400" src="assets/source-archive/daddy.jpg" loading="lazy" alt="Engr. Chima Nwoke"><figcaption><strong>Engr. Chima Nwoke</strong></figcaption></figure>

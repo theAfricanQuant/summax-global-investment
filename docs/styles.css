@@ -254,6 +254,19 @@ footer span:nth-child(2) { margin-right: auto; }
 .source-archive-card figcaption { padding: .75rem .85rem .95rem; }
 .source-archive-card strong { font-size: .83rem; font-weight: 600; line-height: 1.25; }
 
+/* The two Management portraits sit side by side, so they share one frame
+   rather than keeping their own ratios (0.71 and 0.52), which made them
+   different heights. 4:5 fits both: the tighter photo is 0.52 and keeps 65%
+   of its height under top-alignment, still clearing the chin. */
+.archive-group--people .source-archive-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; }
+.archive-group--people .source-archive-card { margin: 0; }
+.archive-group--people .source-archive-card img {
+  aspect-ratio: 4 / 5; height: auto; object-fit: cover; object-position: center top;
+}
+@media (max-width: 560px) {
+  .archive-group--people .source-archive-grid { grid-template-columns: 1fr; }
+}
+
 /* Touch devices get 44px-tall targets; phones also swap the long CTA label
    for a short one and stack the bar, so it still fits at 320px. */
 .cta-short { display: none; }
