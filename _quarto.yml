@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Summax Global Investment"
+  description: "Building design, construction, renovation and project management in Nigeria."
+  site-url: https://theafricanquant.github.io/summax-global-investment/
+  navbar:
+    logo: assets/logo.png
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+      - href: about.qmd
+        text: About
+    right:
+      - href: about.qmd#contact
+        text: Start a conversation
+
+format:
+  html:
+    theme: none
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    page-layout: full
+    anchor-sections: false
+    title-block-banner: false
+    html-math-method: plain
+
+metadata-files: []

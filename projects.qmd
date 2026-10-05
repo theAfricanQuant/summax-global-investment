@@ -1,0 +1,92 @@
+---
+title: "Projects — Summax Global Investment"
+---
+
+<nav class="site-nav" aria-label="Main navigation">
+<a class="site-nav-brand" href="index.html"><img src="assets/logo.png" alt="Summax Global Investment"></a>
+<div class="site-nav-links"><a href="index.html">Home</a><a href="projects.html">Projects</a><a href="about.html">About</a><a class="site-nav-cta" href="about.html#contact">Start a conversation</a></div>
+</nav>
+
+<div class="page-shell">
+<div class="page-hero">
+<span class="kicker">The project archive</span>
+<h1>Work that has to hold up in the real world.</h1>
+<p>Selected construction, renovation, interior and project-delivery work from Summax Global Investment.</p>
+</div>
+
+<div class="archive-grid">
+<div class="archive-card"><img src="assets/hero.jpg" alt="Mission House — Jos, Plateau State · Featured view"><div><h2>Mission House</h2><p>Jos, Plateau State · Featured view</p></div></div>
+<div class="archive-card"><img src="assets/projects/mission-house-back.jpg" alt="Mission House — Jos, Plateau State · Exterior and site works"><div><h2>Mission House</h2><p>Jos, Plateau State · Exterior and site works</p></div></div>
+<div class="archive-card"><img src="assets/projects/mission-house-corridor.jpg" alt="Mission House — Jos, Plateau State · Corridor design"><div><h2>Mission House</h2><p>Jos, Plateau State · Corridor design</p></div></div>
+<div class="archive-card"><img src="assets/projects/mission-house-wiring.jpg" alt="Mission House — Jos, Plateau State · Electrical wiring"><div><h2>Mission House</h2><p>Jos, Plateau State · Electrical wiring</p></div></div>
+<div class="archive-card"><img src="assets/projects/langtang-school-hall.jpg" alt="Two-classroom block — Langtang LGA · School project"><div><h2>Two-classroom block</h2><p>Langtang LGA · School project</p></div></div>
+<div class="archive-card"><img src="assets/projects/church-front.jpg" alt="100-capacity church — Langtang LGA · Church project"><div><h2>100-capacity church</h2><p>Langtang LGA · Church project</p></div></div>
+<div class="archive-card"><img src="assets/projects/church-interior.jpg" alt="100-capacity church — Langtang LGA · Interior works"><div><h2>100-capacity church</h2><p>Langtang LGA · Interior works</p></div></div>
+<div class="archive-card"><img src="assets/projects/durumi-office.jpg" alt="Office redesigns — Durumi, Abuja · Interior and building works"><div><h2>Office redesigns</h2><p>Durumi, Abuja · Interior and building works</p></div></div>
+<div class="archive-card"><img src="assets/projects/teens-church.jpg" alt="Teens section — Kaduna · Construction works"><div><h2>Teens section</h2><p>Kaduna · Construction works</p></div></div>
+<div class="archive-card"><img src="assets/projects/teens-church-interior.jpg" alt="Teens section — Kaduna · Interior finishing"><div><h2>Teens section</h2><p>Kaduna · Interior finishing</p></div></div>
+</div>
+
+<div class="archive-heading"><span class="kicker">Complete image archive</span><h2>Every original photograph, kept in the rebuild.</h2><p>The original site supplied these image files without a complete catalogue. They are included here rather than discarded; filenames are retained as labels where a fuller project description was not available.</p></div>
+
+<div class="source-archive-grid">
+<figure class="source-archive-card"><img src="assets/source-archive/100capacityalterdesigning.jpg" alt="100Capacity Alter Designing"><figcaption><strong>100Capacity Alter Designing</strong><span>100CapacityAlterDesigning.jpg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/100capacitychurchinteriormaking.jpg" alt="100Capacity Church Interior Making"><figcaption><strong>100Capacity Church Interior Making</strong><span>100CapacityChurchInteriorMaking.jpg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/100capacitychurchsideright.jpg" alt="100Capacity Church Side Right"><figcaption><strong>100Capacity Church Side Right</strong><span>100CapacityChurchSideRight.jpg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/100capacitygateoutpost.jpg" alt="100Capacity Gate Outpost"><figcaption><strong>100Capacity Gate Outpost</strong><span>100CapacityGateOutpost.jpg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/100capacitysideback.jpg" alt="100Capacity Side Back"><figcaption><strong>100Capacity Side Back</strong><span>100CapacitySideBack.jpg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/100capchurchfront.jpg" alt="100Cap Church Front"><figcaption><strong>100Cap Church Front</strong><span>100CapChurchFront.jpg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/100capchurchfrontnight.jpg" alt="100Cap Church Front Night"><figcaption><strong>100Cap Church Front Night</strong><span>100CapChurchFrontNight.jpg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/20230603-143700.jpg" alt="20230603 143700"><figcaption><strong>20230603 143700</strong><span>20230603_143700.jpg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/archd.jpg" alt="Arch D"><figcaption><strong>Arch D</strong><span>ArchD.jpg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/archd2.jpg" alt="Arch D2"><figcaption><strong>Arch D2</strong><span>ArchD2.jpg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/archd3.jpg" alt="Arch D3"><figcaption><strong>Arch D3</strong><span>ArchD3.jpg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/background.jpeg" alt="Back Ground"><figcaption><strong>Back Ground</strong><span>BackGround.jpeg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/car-pouch.jpg" alt="Car pouch"><figcaption><strong>Car pouch</strong><span>Car pouch.jpg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/cdi.jpg" alt="CDI"><figcaption><strong>CDI</strong><span>CDI.jpg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/cds1.jpg" alt="CDS1"><figcaption><strong>CDS1</strong><span>CDS1.jpg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/cds2.jpg" alt="CDS2"><figcaption><strong>CDS2</strong><span>CDS2.jpg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/chair.jpg" alt="Chair"><figcaption><strong>Chair</strong><span>Chair.jpg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/cid.jpg" alt="CID"><figcaption><strong>CID</strong><span>CID.jpg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/constructionoflfcteenschurchextrior.jpg" alt="Constructionof LFC Teens Church Extrior"><figcaption><strong>Constructionof LFC Teens Church Extrior</strong><span>ConstructionofLFCTeensChurchExtrior.jpg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/constructionoflfcteenschurchinterioraltar.jpg" alt="Constructionof LFC Teens Church Interior Altar"><figcaption><strong>Constructionof LFC Teens Church Interior Altar</strong><span>ConstructionofLFCTeensChurchInteriorAltar.jpg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/constructionoflfcteenschurchinteriorpainting.jpg" alt="Construction Of LFC Teens Church Interior Painting"><figcaption><strong>Construction Of LFC Teens Church Interior Painting</strong><span>ConstructionOfLFCTeensChurchInteriorPainting.jpg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/daddy.jpg" alt="Daddy"><figcaption><strong>Daddy</strong><span>Daddy.jpg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/id.jpg" alt="ID"><figcaption><strong>ID</strong><span>ID.jpg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/id1.jpg" alt="ID1"><figcaption><strong>ID1</strong><span>ID1.jpg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/img-6175-jpg.jpg" alt="IMG 6175.JPG"><figcaption><strong>IMG 6175.JPG</strong><span>IMG_6175.JPG.jpg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/langtagschoolgeneralfloor.jpg" alt="Lang Tag School General Floor"><figcaption><strong>Lang Tag School General Floor</strong><span>LangTagSchoolGeneralFloor.jpg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/langtangschoolbuildingsite.jpg" alt="Lang Tang School Building Site"><figcaption><strong>Lang Tang School Building Site</strong><span>LangTangSchoolBuildingSite.jpg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/langtangschoolclass2.jpg" alt="Lang Tang School Class2"><figcaption><strong>Lang Tang School Class2</strong><span>LangTangSchoolClass2.jpg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/langtangschoolfront.jpg" alt="Lang Tang School Front"><figcaption><strong>Lang Tang School Front</strong><span>LangTangSchoolFront.jpg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/langtangschoolfrontsided.jpg" alt="Lang Tang School Front Sided"><figcaption><strong>Lang Tang School Front Sided</strong><span>LangTangSchoolFrontSided.jpg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/langtangschoolhallway.jpg" alt="Langtang School Hall Way"><figcaption><strong>Langtang School Hall Way</strong><span>LangtangSchoolHallWay.jpg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/langtangschoolinprogressfront.jpg" alt="Lang Tang School Inprogress Front"><figcaption><strong>Lang Tang School Inprogress Front</strong><span>LangTangSchoolInprogressFront.jpg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/langtangschoolturningpoint.jpg" alt="Langtang School Turning Point"><figcaption><strong>Langtang School Turning Point</strong><span>LangtangSchoolTurningPoint.jpg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/lantangschoolclassinterior.jpg" alt="Lantang School Class Interior"><figcaption><strong>Lantang School Class Interior</strong><span>LantangSchoolClassInterior.jpg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/log.png" alt="Log"><figcaption><strong>Log</strong><span>Log.png</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/lsucom-front.jpg" alt="LSU Com Front"><figcaption><strong>LSU Com Front</strong><span>LSUCom_Front.jpg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/max.png" alt="Max"><figcaption><strong>Max</strong><span>Max.png</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/maxwell.jpg" alt="Maxwell"><figcaption><strong>Maxwell</strong><span>Maxwell.jpg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/mission-house-interior.jpg" alt="Mission House Interior"><figcaption><strong>Mission House Interior</strong><span>Mission House Interior.jpg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/mission-house.jpg" alt="Mission House"><figcaption><strong>Mission House</strong><span>Mission House.jpg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/missionhouseback.jpg" alt="Mission House Back"><figcaption><strong>Mission House Back</strong><span>MissionHouseBack.jpg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/missionhousecooridoordesign.jpg" alt="Mission House Cooridoor Design"><figcaption><strong>Mission House Cooridoor Design</strong><span>MissionHouseCooridoorDesign.jpg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/missionhousediffangle.jpg" alt="Mission House Diff Angle"><figcaption><strong>Mission House Diff Angle</strong><span>MissionHouseDiffAngle.jpg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/missionhouseeletricalwiring.jpg" alt="Mission House Eletrical Wiring"><figcaption><strong>Mission House Eletrical Wiring</strong><span>MissionHouseEletricalWiring.jpg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/missionhousefromfar.jpg" alt="Mission Housefrom Far"><figcaption><strong>Mission Housefrom Far</strong><span>MissionHousefromFar.jpg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/missionhouseoutnight.jpeg" alt="Mission Houseout Night"><figcaption><strong>Mission Houseout Night</strong><span>MissionHouseoutNight.jpeg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/missionhousestairscompleted.jpg" alt="Mission House Stairs Completed"><figcaption><strong>Mission House Stairs Completed</strong><span>MissionHouseStairsCompleted.jpg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/missionhousestairsinprogress.jpg" alt="Mission House Stairsin Progress"><figcaption><strong>Mission House Stairsin Progress</strong><span>MissionHouseStairsinProgress.jpg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/missionhousewin.jpg" alt="Mission House Win"><figcaption><strong>Mission House Win</strong><span>MissionHouseWin.jpg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/office.jpg" alt="Office"><figcaption><strong>Office</strong><span>Office.jpg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/redesignoflfcdurimifar.jpg" alt="Redesignof LFC Durimi Far"><figcaption><strong>Redesignof LFC Durimi Far</strong><span>RedesignofLFCDurimiFar.jpg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/redesignofofficelfcdurimiback.jpeg" alt="Redesignof Office LFC Durimi Back"><figcaption><strong>Redesignof Office LFC Durimi Back</strong><span>RedesignofOfficeLFCDurimiBack.jpeg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/redesignofofficelfcdurimibackfar.jpeg" alt="Redesignof Office LFC Durimi Back Far"><figcaption><strong>Redesignof Office LFC Durimi Back Far</strong><span>RedesignofOfficeLFCDurimiBackFar.jpeg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/redesignofofficelfcdurimiinteriordesign.jpeg" alt="Redesign Of Office LFC Durimi Interior Design"><figcaption><strong>Redesign Of Office LFC Durimi Interior Design</strong><span>RedesignOfOfficeLFCDurimiInteriorDesign.jpeg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/redesignofsec-office-lfcdurimi.jpeg" alt="Redesignof Sec Office,LFC Durimi"><figcaption><strong>Redesignof Sec Office,LFC Durimi</strong><span>RedesignofSec Office,LFCDurimi.jpeg</span></figcaption></figure>
+<figure class="source-archive-card"><img src="assets/source-archive/summax-2.png" alt="Summax (2)"><figcaption><strong>Summax (2)</strong><span>Summax (2).png</span></figcaption></figure>
+</div>
+</div>
+
+<footer><img src="assets/logo.png" alt="Summax Global Investment logo"><span>Summax Global Investment Limited</span><span>© 2026</span></footer>

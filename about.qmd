@@ -1,0 +1,33 @@
+---
+title: "About — Summax Global Investment"
+---
+
+<nav class="site-nav" aria-label="Main navigation">
+<a class="site-nav-brand" href="index.html"><img src="assets/logo.png" alt="Summax Global Investment"></a>
+<div class="site-nav-links"><a href="index.html">Home</a><a href="projects.html">Projects</a><a href="about.html">About</a><a class="site-nav-cta" href="#contact">Start a conversation</a></div>
+</nav>
+
+<div class="page-shell">
+<div class="page-hero page-hero-split">
+<div><span class="kicker">About Summax</span><h1>Practical thinking for spaces that matter.</h1></div>
+<p>Summax Global Investment is an Abuja-based team of allied building professionals working across design, construction, renovation and project delivery.</p>
+</div>
+
+<div class="about-statement"><span class="section-index">01</span><div><h2>Start with the site. Stay close to the brief.</h2><p>Since 2014, Summax has brought together the conversations, drawings, coordination and site work needed to move a building project forward. The approach is direct: understand what the work must do, then make careful decisions that support it.</p></div></div>
+
+<div class="about-objectives"><div><span class="kicker">Objectives</span><h2>Solutions shaped around the client.</h2></div><div><p>Summax draws upon its experience and expertise to understand each client’s identity, needs and objectives, then develops creative solutions specific to the project.</p><p>Whether the work involves a new facility, renovation, relocation, expansion or consolidation, the team aims to serve as a trusted project adviser—listening carefully, communicating clearly and working toward results that meet a high standard.</p><p class="audience-note"><strong>Project relationships</strong><span>Private developers · corporate bodies · religious institutions · governmental institutions</span></p></div></div>
+
+<div class="about-columns">
+<div><span class="kicker">What we do</span><h2>One team across the building journey.</h2></div>
+<div class="about-services"><div><strong>Design and planning</strong><p>Site evaluation, building design, interiors and planting.</p></div><div><strong>Construction and supervision</strong><p>Building works, coordination and site supervision.</p></div><div><strong>Renovation and maintenance</strong><p>Renewal, repair and continued care for existing spaces.</p></div><div><strong>Project support</strong><p>Project management, real estate, furniture and ICT services.</p></div></div>
+</div>
+
+<div class="team-layout about-team">
+<div class="team-intro"><span class="kicker">The people behind the work</span><h2>Experience at the table.</h2><p>Engineering, architecture and project coordination brought together from the first conversation through delivery.</p></div>
+<div class="team-grid"><div class="person-card"><img src="assets/people/chima-nwoke.jpg" alt="Portrait of Engr. Chima Nwoke"><h3>Engr. Chima Nwoke</h3><p>Chief Executive Officer</p></div><div class="person-card"><img src="assets/people/maxwell-ihechineme.png" alt="Portrait of Arc. Maxwell Ihechineme"><h3>Arc. Maxwell Ihechineme</h3><p>Chief Architect</p></div></div>
+</div>
+
+<div class="contact-panel" id="contact"><div><span class="kicker">Have a project in mind?</span><h2>Let us understand the brief.</h2><p>For design, construction, renovation or project support, start with a conversation about the site and the outcome you need.</p></div><div class="contact-details"><a href="mailto:chimanwoke@gmail.com">chimanwoke@gmail.com</a><a href="tel:+2348036009255">+234 803 600 9255</a><span>Abuja, Nigeria</span></div></div>
+</div>
+
+<footer><img src="assets/logo.png" alt="Summax Global Investment logo"><span>Summax Global Investment Limited</span><span>© 2026</span></footer>

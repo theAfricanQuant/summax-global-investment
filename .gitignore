@@ -1,0 +1,12 @@
+# Quarto / editor scratch
+.quarto/
+.Rproj.user/
+*.Rproj
+.DS_Store
+Thumbs.db
+
+# Older local preview output
+_site/
+
+/.quarto/
+**/*.quarto_ipynb
