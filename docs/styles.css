@@ -130,7 +130,10 @@ body > h2#team {
 .intro-band { display: grid; grid-template-columns: 110px 1fr; gap: 1.5rem; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); padding: 5rem 0; }
 .intro-band h2, .section-heading h2, .project-detail h2, .team-intro h2, .contact-panel h2 { margin: 0; font-family: Georgia, "Times New Roman", serif; font-size: clamp(2.2rem, 4vw, 4.5rem); font-weight: 400; letter-spacing: -.05em; line-height: .98; }
 .intro-band p, .section-heading p, .project-detail p, .team-intro p, .contact-panel p { max-width: 54ch; color: var(--muted); }
-section h2 { scroll-margin-top: 100px; }
+/* Anchor targets must clear the sticky nav: 72px on desktop, ~111px once
+   the phone layout stacks it onto two rows. */
+:where(h1, h2, h3, section, div)[id] { scroll-margin-top: 7rem; }
+@media (max-width: 620px) { :where(h1, h2, h3, section, div)[id] { scroll-margin-top: 9.5rem; } }
 .section-heading { display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; align-items: end; margin-bottom: 3rem; padding-block-start: var(--section); }
 .services-grid { display: grid; grid-template-columns: .9fr 1.1fr; gap: 3rem; border-top: 1px solid var(--line); padding-top: 2rem; }
 .service-feature { background: var(--deep); color: #f8f4ec; padding: 3rem; min-height: 310px; }
