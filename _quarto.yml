@@ -6,6 +6,7 @@ website:
   title: "Summax Global Investment"
   description: "Building design, construction, renovation and project management in Nigeria."
   site-url: https://theafricanquant.github.io/summax-global-investment/
+  favicon: assets/logo.png
   navbar:
     logo: assets/logo.png
     left:

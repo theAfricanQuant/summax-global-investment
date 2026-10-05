@@ -1,5 +1,5 @@
 ---
-title: "About — Summax Global Investment"
+title: "About"
 ---
 
 <nav class="site-nav" aria-label="Main navigation">
@@ -24,7 +24,7 @@ title: "About — Summax Global Investment"
 
 <div class="team-layout about-team">
 <div class="team-intro"><span class="kicker">The people behind the work</span><h2>Experience at the table.</h2><p>Engineering, architecture and project coordination brought together from the first conversation through delivery.</p></div>
-<div class="team-grid"><div class="person-card"><img src="assets/people/chima-nwoke.jpg" alt="Portrait of Engr. Chima Nwoke"><h3>Engr. Chima Nwoke</h3><p>Chief Executive Officer</p></div><div class="person-card"><img src="assets/people/maxwell-ihechineme.png" alt="Portrait of Arc. Maxwell Ihechineme"><h3>Arc. Maxwell Ihechineme</h3><p>Chief Architect</p></div></div>
+<div class="team-grid"><div class="person-card"><img src="assets/people/chima-nwoke.jpg" alt="Portrait of Engr. Chima Nwoke"><h3>Engr. Chima Nwoke</h3><p>Chief Executive Officer</p></div><div class="person-card"><img src="assets/people/maxwell-ihechineme.jpg" alt="Portrait of Arc. Maxwell Ihechineme"><h3>Arc. Maxwell Ihechineme</h3><p>Chief Architect</p></div></div>
 </div>
 
 <div class="contact-panel" id="contact"><div><span class="kicker">Have a project in mind?</span><h2>Let us understand the brief.</h2><p>For design, construction, renovation or project support, start with a conversation about the site and the outcome you need.</p></div><div class="contact-details"><a href="mailto:chimanwoke@gmail.com">chimanwoke@gmail.com</a><a href="tel:+2348036009255">+234 803 600 9255</a><span>Abuja, Nigeria</span></div></div>
