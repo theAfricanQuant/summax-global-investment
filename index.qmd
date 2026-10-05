@@ -8,8 +8,11 @@ title: "Summax Global Investment"
 </nav>
 
 ::: {.hero}
+::: {.hero-logo}
+<img src="assets/logo-lockup.png" alt="Summax Global Investment" width="572" height="560">
+:::
+
 ::: {.hero-copy}
-<img class="hero-brand" src="assets/logo-lockup.png" alt="Summax Global Investment" width="572" height="560">
 <p class="kicker">Design. Build. Maintain.</p>
 
 # What are you planning to build?
@@ -22,11 +25,6 @@ Summax Global Investment is an Abuja-based team of allied building professionals
 :::
 
 <div class="hero-note"><strong>Since 2014</strong><span>Client-led building work across Nigeria</span></div>
-:::
-
-::: {.hero-image}
-![](assets/hero.jpg){.hero-photo fig-alt="Illuminated Mission House project at night"}
-<div class="hero-caption"><span>Mission House</span><span>Jos, Plateau State</span></div>
 :::
 :::
 

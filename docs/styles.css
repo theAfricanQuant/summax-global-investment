@@ -115,7 +115,11 @@ body > h2#team {
   letter-spacing: -.065em;
   line-height: .92;
 }
-.hero-brand { display: block; width: clamp(122px, 11vw, 166px); height: auto; margin-bottom: 1.7rem; }
+/* The brand lockup now owns the whole left column, set large enough that the
+   "GLOBAL INVESTMENT LTD" line under the name still reads - it only becomes
+   legible above roughly 250px wide, below which it is a smudge. */
+.hero-logo { display: flex; align-items: center; }
+.hero-logo img { display: block; width: clamp(210px, 30vw, 420px); height: auto; }
 .hero-copy > p:not(.kicker) { max-width: 40ch; color: var(--muted); font-size: 1.06rem; }
 .hero-actions { display: flex; align-items: center; gap: 1.3rem; margin: 2rem 0 3.2rem; flex-wrap: wrap; }
 .button { display: inline-block; padding: .9rem 1.1rem; text-decoration: none; font-weight: 700; }
@@ -125,9 +129,6 @@ body > h2#team {
 .text-link:hover { color: var(--accent-dark); }
 .hero-note { display: grid; grid-template-columns: auto 1fr; gap: 1rem; align-items: baseline; border-top: 1px solid var(--line); padding-top: 1rem; font-size: .78rem; color: var(--muted); }
 .hero-note strong { color: var(--ink); font-size: 1.1rem; }
-.hero-image { position: relative; }
-.hero-photo { width: 100%; height: min(72vh, 720px); object-fit: cover; object-position: center; filter: saturate(.78) contrast(1.05); }
-.hero-caption { display: flex; justify-content: space-between; padding: .7rem 0; color: var(--muted); font-size: .78rem; }
 .intro-band { display: grid; grid-template-columns: 110px 1fr; gap: 1.5rem; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); padding: 5rem 0; }
 .intro-band h2, .section-heading h2, .project-detail h2, .team-intro h2, .contact-panel h2 { margin: 0; font-family: Georgia, "Times New Roman", serif; font-size: clamp(2.2rem, 4vw, 4.5rem); font-weight: 400; letter-spacing: -.05em; line-height: .98; }
 .intro-band p, .section-heading p, .project-detail p, .team-intro p, .contact-panel p { max-width: 54ch; color: var(--muted); }
@@ -175,7 +176,7 @@ footer span:nth-child(2) { margin-right: auto; }
 @media (max-width: 850px) {
   .hero { grid-template-columns: 1fr; padding-top: 3.5rem; }
   .hero h1 { max-width: 10ch; font-size: clamp(3.5rem, 15vw, 6rem); }
-  .hero-photo { height: min(58vh, 460px); }
+  .hero-logo img { width: clamp(170px, 46vw, 260px); }
   .intro-band, .section-heading, .services-grid, .project-detail, .team-layout, .contact-panel { grid-template-columns: 1fr; }
   .services-grid { gap: 2rem; }
   .approach-strip { grid-template-columns: 1fr; }
@@ -310,5 +311,4 @@ footer span:nth-child(2) { margin-right: auto; }
    dvh tracks the real viewport; vh above stays as the fallback. */
 @supports (height: 100dvh) {
   @media (min-width: 561px) { .hero { min-height: calc(100dvh - 72px); } }
-  @media (max-width: 850px) { .hero-photo { height: min(58dvh, 460px); } }
-}
+  }
