@@ -115,7 +115,7 @@ body > h2#team {
   letter-spacing: -.065em;
   line-height: .92;
 }
-.hero-brand { display: block; width: clamp(148px, 15vw, 206px); height: auto; margin-bottom: 1.9rem; }
+.hero-brand { display: block; width: clamp(122px, 11vw, 166px); height: auto; margin-bottom: 1.7rem; }
 .hero-copy > p:not(.kicker) { max-width: 40ch; color: var(--muted); font-size: 1.06rem; }
 .hero-actions { display: flex; align-items: center; gap: 1.3rem; margin: 2rem 0 3.2rem; flex-wrap: wrap; }
 .button { display: inline-block; padding: .9rem 1.1rem; text-decoration: none; font-weight: 700; }
