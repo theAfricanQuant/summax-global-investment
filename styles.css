@@ -101,7 +101,7 @@ body > h2#team {
 
 .kicker, .service-number, .section-index {
   color: var(--accent-dark);
-  font-size: .72rem;
+  font-size: .78rem;
   font-weight: 700;
   letter-spacing: .14em;
   text-transform: uppercase;
@@ -171,7 +171,7 @@ footer span:nth-child(2) { margin-right: auto; }
 @media (max-width: 850px) {
   .hero { grid-template-columns: 1fr; padding-top: 3.5rem; }
   .hero h1 { max-width: 10ch; font-size: clamp(3.5rem, 15vw, 6rem); }
-  .hero-photo { height: 58vh; }
+  .hero-photo { height: min(58vh, 460px); }
   .intro-band, .section-heading, .services-grid, .project-detail, .team-layout, .contact-panel { grid-template-columns: 1fr; }
   .services-grid { gap: 2rem; }
   .approach-strip { grid-template-columns: 1fr; }
@@ -202,7 +202,7 @@ footer span:nth-child(2) { margin-right: auto; }
 }
 
 /* Shared site navigation */
-.site-nav { width: 100%; min-height: 72px; padding: 0 var(--gutter); display: flex; align-items: center; justify-content: space-between; gap: 2rem; background: rgba(243,241,235,.94); border-bottom: 1px solid var(--line); backdrop-filter: blur(14px); position: relative; z-index: 5; }
+.site-nav { width: 100%; min-height: 72px; padding: 0 var(--gutter); display: flex; align-items: center; justify-content: space-between; gap: 2rem; background: rgba(243,241,235,.94); border-bottom: 1px solid var(--line); backdrop-filter: blur(14px); position: sticky; top: 0; z-index: 5; }
 .site-nav-brand img { display: block; width: 76px; max-height: 48px; object-fit: contain; }
 .site-nav-links { display: flex; align-items: center; gap: 1.6rem; }
 .site-nav-links a { color: var(--ink); text-decoration: none; font-size: .82rem; letter-spacing: .04em; }
@@ -247,9 +247,22 @@ footer span:nth-child(2) { margin-right: auto; }
 .source-archive-card figcaption { padding: .75rem .85rem .95rem; }
 .source-archive-card strong { font-size: .83rem; font-weight: 600; line-height: 1.25; }
 
+/* Touch devices get 44px-tall nav targets; phones also swap the long CTA
+   label for a short one so the whole bar still fits at 320px. */
+.cta-short { display: none; }
+@media (hover: none) {
+  .site-nav-links a { display: flex; align-items: center; min-height: 44px; padding-inline: .6rem; }
+  a[href^="tel:"], a[href^="mailto:"] { display: inline-flex; align-items: center; min-height: 44px; }
+}
+@media (max-width: 620px) {
+  .site-nav { min-height: 64px; }
+  .site-nav-links { gap: 0; }
+  .cta-full { display: none; }
+  .cta-short { display: inline; }
+  .site-nav-cta { padding-inline: .85rem !important; }
+}
+
 @media (max-width: 850px) {
-  .site-nav-links { gap: 1rem; }
-  .site-nav-links .site-nav-cta { display: none; }
   .page-hero-split, .about-columns, .about-objectives { grid-template-columns: 1fr; gap: 1.5rem; }
   .archive-group-head { grid-template-columns: 1fr auto; }
   .source-archive-grid { grid-template-columns: repeat(2, 1fr); }
@@ -261,4 +274,20 @@ footer span:nth-child(2) { margin-right: auto; }
   .archive-group-head { grid-template-columns: 1fr; gap: .2rem; }
   .about-statement { grid-template-columns: 1fr; padding: 3rem 0; }
   .about-columns { padding: 4.5rem 0; }
+  .service-feature h3 { font-size: 2.3rem; }
+  .source-archive-card img { height: 220px; }
+}
+/* Narrow phones: keep the display type inside the 320px content box. */
+@media (max-width: 380px) {
+  .hero h1, .page-hero h1 { font-size: 3rem; }
+  .site-nav-brand img { width: 54px; }
+  .site-nav-links a { padding-inline: .45rem; font-size: .8rem; }
+  .site-nav-cta { padding-inline: .6rem !important; }
+}
+/* Mobile browsers size 100vh to the largest possible viewport, so a
+   full-height hero is taller than the visible area until the user scrolls.
+   dvh tracks the real viewport; vh above stays as the fallback. */
+@supports (height: 100dvh) {
+  @media (min-width: 561px) { .hero { min-height: calc(100dvh - 72px); } }
+  @media (max-width: 850px) { .hero-photo { height: min(58dvh, 460px); } }
 }
