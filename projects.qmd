@@ -3,7 +3,7 @@ title: "Projects"
 ---
 
 <nav class="site-nav" aria-label="Main navigation">
-<a class="site-nav-brand" href="index.html"><img src="assets/logo.png" alt="Summax Global Investment"></a>
+<a class="site-nav-brand" href="index.html"><img width="400" height="400" src="assets/logo.png" alt="Summax Global Investment"></a>
 <div class="site-nav-links"><a href="index.html">Home</a><a href="projects.html">Projects</a><a href="about.html">About</a><a class="site-nav-cta" href="about.html#contact"><span class="cta-full">Start a conversation</span><span class="cta-short">Contact</span></a></div>
 </nav>
 
@@ -15,111 +15,111 @@ title: "Projects"
 </div>
 
 <figure class="archive-feature">
-<img src="assets/hero.jpg" alt="Mission House, Jos, illuminated at night">
+<img width="2400" height="1800" src="assets/hero.jpg" alt="Mission House, Jos, illuminated at night">
 <figcaption><strong>Mission House</strong><span>Jos, Plateau State · Construction, interiors and electrical works</span></figcaption>
 </figure>
 
 <div class="archive-group">
 <div class="archive-group-head"><h2>Mission House</h2><span>Jos, Plateau State</span><span class="count">11 images</span></div>
 <div class="source-archive-grid">
-<figure class="source-archive-card"><img src="assets/source-archive/mission-house-interior.jpg" loading="lazy" alt="Interior"><figcaption><strong>Interior</strong></figcaption></figure>
-<figure class="source-archive-card"><img src="assets/source-archive/mission-house.jpg" loading="lazy" alt="Main view"><figcaption><strong>Main view</strong></figcaption></figure>
-<figure class="source-archive-card"><img src="assets/source-archive/missionhouseback.jpg" loading="lazy" alt="Rear elevation"><figcaption><strong>Rear elevation</strong></figcaption></figure>
-<figure class="source-archive-card"><img src="assets/source-archive/missionhousecooridoordesign.jpg" loading="lazy" alt="Corridor design"><figcaption><strong>Corridor design</strong></figcaption></figure>
-<figure class="source-archive-card"><img src="assets/source-archive/missionhousediffangle.jpg" loading="lazy" alt="Exterior, alternate angle"><figcaption><strong>Exterior, alternate angle</strong></figcaption></figure>
-<figure class="source-archive-card"><img src="assets/source-archive/missionhouseeletricalwiring.jpg" loading="lazy" alt="Electrical wiring"><figcaption><strong>Electrical wiring</strong></figcaption></figure>
-<figure class="source-archive-card"><img src="assets/source-archive/missionhousefromfar.jpg" loading="lazy" alt="Exterior from a distance"><figcaption><strong>Exterior from a distance</strong></figcaption></figure>
-<figure class="source-archive-card"><img src="assets/source-archive/missionhouseoutnight.jpeg" loading="lazy" alt="Exterior at night"><figcaption><strong>Exterior at night</strong></figcaption></figure>
-<figure class="source-archive-card"><img src="assets/source-archive/missionhousestairscompleted.jpg" loading="lazy" alt="Staircase, completed"><figcaption><strong>Staircase, completed</strong></figcaption></figure>
-<figure class="source-archive-card"><img src="assets/source-archive/missionhousestairsinprogress.jpg" loading="lazy" alt="Staircase, in progress"><figcaption><strong>Staircase, in progress</strong></figcaption></figure>
-<figure class="source-archive-card"><img src="assets/source-archive/missionhousewin.jpg" loading="lazy" alt="Window detail"><figcaption><strong>Window detail</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="810" height="1080" src="assets/source-archive/mission-house-interior.jpg" loading="lazy" alt="Interior"><figcaption><strong>Interior</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="1400" height="1050" src="assets/source-archive/mission-house.jpg" loading="lazy" alt="Main view"><figcaption><strong>Main view</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="1080" height="810" src="assets/source-archive/missionhouseback.jpg" loading="lazy" alt="Rear elevation"><figcaption><strong>Rear elevation</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="1080" height="810" src="assets/source-archive/missionhousecooridoordesign.jpg" loading="lazy" alt="Corridor design"><figcaption><strong>Corridor design</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="1400" height="1050" src="assets/source-archive/missionhousediffangle.jpg" loading="lazy" alt="Exterior, alternate angle"><figcaption><strong>Exterior, alternate angle</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="810" height="1080" src="assets/source-archive/missionhouseeletricalwiring.jpg" loading="lazy" alt="Electrical wiring"><figcaption><strong>Electrical wiring</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="1080" height="810" src="assets/source-archive/missionhousefromfar.jpg" loading="lazy" alt="Exterior from a distance"><figcaption><strong>Exterior from a distance</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="1400" height="1050" src="assets/source-archive/missionhouseoutnight.jpeg" loading="lazy" alt="Exterior at night"><figcaption><strong>Exterior at night</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="810" height="1080" src="assets/source-archive/missionhousestairscompleted.jpg" loading="lazy" alt="Staircase, completed"><figcaption><strong>Staircase, completed</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="1050" height="1400" src="assets/source-archive/missionhousestairsinprogress.jpg" loading="lazy" alt="Staircase, in progress"><figcaption><strong>Staircase, in progress</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="1050" height="1400" src="assets/source-archive/missionhousewin.jpg" loading="lazy" alt="Window detail"><figcaption><strong>Window detail</strong></figcaption></figure>
 </div>
 </div>
 <div class="archive-group">
 <div class="archive-group-head"><h2>Langtang school project</h2><span>Langtang LGA, Plateau State</span><span class="count">9 images</span></div>
 <div class="source-archive-grid">
-<figure class="source-archive-card"><img src="assets/source-archive/langtagschoolgeneralfloor.jpg" loading="lazy" alt="General floor"><figcaption><strong>General floor</strong></figcaption></figure>
-<figure class="source-archive-card"><img src="assets/source-archive/langtangschoolbuildingsite.jpg" loading="lazy" alt="Building site"><figcaption><strong>Building site</strong></figcaption></figure>
-<figure class="source-archive-card"><img src="assets/source-archive/langtangschoolclass2.jpg" loading="lazy" alt="Classroom"><figcaption><strong>Classroom</strong></figcaption></figure>
-<figure class="source-archive-card"><img src="assets/source-archive/langtangschoolfront.jpg" loading="lazy" alt="Front elevation"><figcaption><strong>Front elevation</strong></figcaption></figure>
-<figure class="source-archive-card"><img src="assets/source-archive/langtangschoolfrontsided.jpg" loading="lazy" alt="Front elevation, side view"><figcaption><strong>Front elevation, side view</strong></figcaption></figure>
-<figure class="source-archive-card"><img src="assets/source-archive/langtangschoolhallway.jpg" loading="lazy" alt="Hallway"><figcaption><strong>Hallway</strong></figcaption></figure>
-<figure class="source-archive-card"><img src="assets/source-archive/langtangschoolinprogressfront.jpg" loading="lazy" alt="Front elevation, in progress"><figcaption><strong>Front elevation, in progress</strong></figcaption></figure>
-<figure class="source-archive-card"><img src="assets/source-archive/langtangschoolturningpoint.jpg" loading="lazy" alt="Turning point"><figcaption><strong>Turning point</strong></figcaption></figure>
-<figure class="source-archive-card"><img src="assets/source-archive/lantangschoolclassinterior.jpg" loading="lazy" alt="Classroom interior"><figcaption><strong>Classroom interior</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="1280" height="720" src="assets/source-archive/langtagschoolgeneralfloor.jpg" loading="lazy" alt="General floor"><figcaption><strong>General floor</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="1280" height="720" src="assets/source-archive/langtangschoolbuildingsite.jpg" loading="lazy" alt="Building site"><figcaption><strong>Building site</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="1000" height="748" src="assets/source-archive/langtangschoolclass2.jpg" loading="lazy" alt="Classroom"><figcaption><strong>Classroom</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="1280" height="957" src="assets/source-archive/langtangschoolfront.jpg" loading="lazy" alt="Front elevation"><figcaption><strong>Front elevation</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="957" height="1280" src="assets/source-archive/langtangschoolfrontsided.jpg" loading="lazy" alt="Front elevation, side view"><figcaption><strong>Front elevation, side view</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="957" height="1280" src="assets/source-archive/langtangschoolhallway.jpg" loading="lazy" alt="Hallway"><figcaption><strong>Hallway</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="1280" height="957" src="assets/source-archive/langtangschoolinprogressfront.jpg" loading="lazy" alt="Front elevation, in progress"><figcaption><strong>Front elevation, in progress</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="1000" height="748" src="assets/source-archive/langtangschoolturningpoint.jpg" loading="lazy" alt="Turning point"><figcaption><strong>Turning point</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="1000" height="748" src="assets/source-archive/lantangschoolclassinterior.jpg" loading="lazy" alt="Classroom interior"><figcaption><strong>Classroom interior</strong></figcaption></figure>
 </div>
 </div>
 <div class="archive-group">
 <div class="archive-group-head"><h2>100-capacity church</h2><span>Langtang LGA, Plateau State</span><span class="count">7 images</span></div>
 <div class="source-archive-grid">
-<figure class="source-archive-card"><img src="assets/source-archive/100capacityalterdesigning.jpg" loading="lazy" alt="Altar, under construction"><figcaption><strong>Altar, under construction</strong></figcaption></figure>
-<figure class="source-archive-card"><img src="assets/source-archive/100capacitychurchinteriormaking.jpg" loading="lazy" alt="Interior, in progress"><figcaption><strong>Interior, in progress</strong></figcaption></figure>
-<figure class="source-archive-card"><img src="assets/source-archive/100capacitychurchsideright.jpg" loading="lazy" alt="Side view, right"><figcaption><strong>Side view, right</strong></figcaption></figure>
-<figure class="source-archive-card"><img src="assets/source-archive/100capacitygateoutpost.jpg" loading="lazy" alt="Gate outpost"><figcaption><strong>Gate outpost</strong></figcaption></figure>
-<figure class="source-archive-card"><img src="assets/source-archive/100capacitysideback.jpg" loading="lazy" alt="Side and rear"><figcaption><strong>Side and rear</strong></figcaption></figure>
-<figure class="source-archive-card"><img src="assets/source-archive/100capchurchfront.jpg" loading="lazy" alt="Front elevation"><figcaption><strong>Front elevation</strong></figcaption></figure>
-<figure class="source-archive-card"><img src="assets/source-archive/100capchurchfrontnight.jpg" loading="lazy" alt="Front elevation at night"><figcaption><strong>Front elevation at night</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="1280" height="957" src="assets/source-archive/100capacityalterdesigning.jpg" loading="lazy" alt="Altar, under construction"><figcaption><strong>Altar, under construction</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="750" height="1000" src="assets/source-archive/100capacitychurchinteriormaking.jpg" loading="lazy" alt="Interior, in progress"><figcaption><strong>Interior, in progress</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="957" height="1280" src="assets/source-archive/100capacitychurchsideright.jpg" loading="lazy" alt="Side view, right"><figcaption><strong>Side view, right</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="750" height="1000" src="assets/source-archive/100capacitygateoutpost.jpg" loading="lazy" alt="Gate outpost"><figcaption><strong>Gate outpost</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="750" height="1000" src="assets/source-archive/100capacitysideback.jpg" loading="lazy" alt="Side and rear"><figcaption><strong>Side and rear</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="1000" height="750" src="assets/source-archive/100capchurchfront.jpg" loading="lazy" alt="Front elevation"><figcaption><strong>Front elevation</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="1280" height="957" src="assets/source-archive/100capchurchfrontnight.jpg" loading="lazy" alt="Front elevation at night"><figcaption><strong>Front elevation at night</strong></figcaption></figure>
 </div>
 </div>
 <div class="archive-group">
 <div class="archive-group-head"><h2>Living Faith Church office redesign</h2><span>Durumi, Abuja</span><span class="count">5 images</span></div>
 <div class="source-archive-grid">
-<figure class="source-archive-card"><img src="assets/source-archive/redesignoflfcdurimifar.jpg" loading="lazy" alt="Wide view"><figcaption><strong>Wide view</strong></figcaption></figure>
-<figure class="source-archive-card"><img src="assets/source-archive/redesignofofficelfcdurimiback.jpeg" loading="lazy" alt="Rear"><figcaption><strong>Rear</strong></figcaption></figure>
-<figure class="source-archive-card"><img src="assets/source-archive/redesignofofficelfcdurimibackfar.jpeg" loading="lazy" alt="Rear, wide view"><figcaption><strong>Rear, wide view</strong></figcaption></figure>
-<figure class="source-archive-card"><img src="assets/source-archive/redesignofofficelfcdurimiinteriordesign.jpeg" loading="lazy" alt="Interior design"><figcaption><strong>Interior design</strong></figcaption></figure>
-<figure class="source-archive-card"><img src="assets/source-archive/redesignofsec-office-lfcdurimi.jpeg" loading="lazy" alt="Section office"><figcaption><strong>Section office</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="1280" height="591" src="assets/source-archive/redesignoflfcdurimifar.jpg" loading="lazy" alt="Wide view"><figcaption><strong>Wide view</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="1400" height="1050" src="assets/source-archive/redesignofofficelfcdurimiback.jpeg" loading="lazy" alt="Rear"><figcaption><strong>Rear</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="1400" height="1050" src="assets/source-archive/redesignofofficelfcdurimibackfar.jpeg" loading="lazy" alt="Rear, wide view"><figcaption><strong>Rear, wide view</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="1050" height="1400" src="assets/source-archive/redesignofofficelfcdurimiinteriordesign.jpeg" loading="lazy" alt="Interior design"><figcaption><strong>Interior design</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="1400" height="1050" src="assets/source-archive/redesignofsec-office-lfcdurimi.jpeg" loading="lazy" alt="Section office"><figcaption><strong>Section office</strong></figcaption></figure>
 </div>
 </div>
 <div class="archive-group">
 <div class="archive-group-head"><h2>Living Faith Church teens church</h2><span>Kaduna</span><span class="count">3 images</span></div>
 <div class="source-archive-grid">
-<figure class="source-archive-card"><img src="assets/source-archive/constructionoflfcteenschurchextrior.jpg" loading="lazy" alt="Exterior"><figcaption><strong>Exterior</strong></figcaption></figure>
-<figure class="source-archive-card"><img src="assets/source-archive/constructionoflfcteenschurchinterioraltar.jpg" loading="lazy" alt="Interior altar"><figcaption><strong>Interior altar</strong></figcaption></figure>
-<figure class="source-archive-card"><img src="assets/source-archive/constructionoflfcteenschurchinteriorpainting.jpg" loading="lazy" alt="Interior painting"><figcaption><strong>Interior painting</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="1400" height="1050" src="assets/source-archive/constructionoflfcteenschurchextrior.jpg" loading="lazy" alt="Exterior"><figcaption><strong>Exterior</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="1400" height="788" src="assets/source-archive/constructionoflfcteenschurchinterioraltar.jpg" loading="lazy" alt="Interior altar"><figcaption><strong>Interior altar</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="1400" height="1050" src="assets/source-archive/constructionoflfcteenschurchinteriorpainting.jpg" loading="lazy" alt="Interior painting"><figcaption><strong>Interior painting</strong></figcaption></figure>
 </div>
 </div>
 <div class="archive-group">
 <div class="archive-group-head"><h2>Management</h2><span>Summax Global Investment</span><span class="count">2 images</span></div>
 <div class="source-archive-grid">
-<figure class="source-archive-card"><img src="assets/source-archive/daddy.jpg" loading="lazy" alt="Engr. Chima Nwoke"><figcaption><strong>Engr. Chima Nwoke</strong></figcaption></figure>
-<figure class="source-archive-card"><img src="assets/source-archive/maxwell.jpg" loading="lazy" alt="Arc. Maxwell Ihechineme"><figcaption><strong>Arc. Maxwell Ihechineme</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="1000" height="1400" src="assets/source-archive/daddy.jpg" loading="lazy" alt="Engr. Chima Nwoke"><figcaption><strong>Engr. Chima Nwoke</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="563" height="1080" src="assets/source-archive/maxwell.jpg" loading="lazy" alt="Arc. Maxwell Ihechineme"><figcaption><strong>Arc. Maxwell Ihechineme</strong></figcaption></figure>
 </div>
 </div>
 <div class="archive-group">
 <div class="archive-group-head"><h2>Brand and site images</h2><span>Summax Global Investment</span><span class="count">3 images</span></div>
 <div class="source-archive-grid">
-<figure class="source-archive-card"><img src="assets/source-archive/background.jpeg" loading="lazy" alt="Background image"><figcaption><strong>Background image</strong></figcaption></figure>
-<figure class="source-archive-card"><img src="assets/source-archive/log.png" loading="lazy" alt="Summax logo"><figcaption><strong>Summax logo</strong></figcaption></figure>
-<figure class="source-archive-card"><img src="assets/source-archive/summax-2.png" loading="lazy" alt="Summax mark"><figcaption><strong>Summax mark</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="715" height="429" src="assets/source-archive/background.jpeg" loading="lazy" alt="Background image"><figcaption><strong>Background image</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="400" height="400" src="assets/source-archive/log.png" loading="lazy" alt="Summax logo"><figcaption><strong>Summax logo</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="400" height="200" src="assets/source-archive/summax-2.png" loading="lazy" alt="Summax mark"><figcaption><strong>Summax mark</strong></figcaption></figure>
 </div>
 </div>
 <div class="archive-group">
 <div class="archive-group-head"><h2>Furniture and interior pieces</h2><span>Summax Global Investment</span><span class="count">3 images</span></div>
 <div class="source-archive-grid">
-<figure class="source-archive-card"><img src="assets/source-archive/car-pouch.jpg" loading="lazy" alt="Car seat pouch"><figcaption><strong>Car seat pouch</strong></figcaption></figure>
-<figure class="source-archive-card"><img src="assets/source-archive/chair.jpg" loading="lazy" alt="Chair"><figcaption><strong>Chair</strong></figcaption></figure>
-<figure class="source-archive-card"><img src="assets/source-archive/office.jpg" loading="lazy" alt="Office"><figcaption><strong>Office</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="1400" height="788" src="assets/source-archive/car-pouch.jpg" loading="lazy" alt="Car seat pouch"><figcaption><strong>Car seat pouch</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="1050" height="1400" src="assets/source-archive/chair.jpg" loading="lazy" alt="Chair"><figcaption><strong>Chair</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="1400" height="788" src="assets/source-archive/office.jpg" loading="lazy" alt="Office"><figcaption><strong>Office</strong></figcaption></figure>
 </div>
 </div>
 <div class="archive-group">
 <div class="archive-group-head"><h2>Additional supplied images</h2><span>Summax Global Investment</span><span class="count">13 images</span></div>
 <div class="source-archive-grid">
-<figure class="source-archive-card"><img src="assets/source-archive/20230603-143700.jpg" loading="lazy" alt="20230603-143700"><figcaption><strong>20230603-143700</strong></figcaption></figure>
-<figure class="source-archive-card"><img src="assets/source-archive/archd.jpg" loading="lazy" alt="archd"><figcaption><strong>archd</strong></figcaption></figure>
-<figure class="source-archive-card"><img src="assets/source-archive/archd2.jpg" loading="lazy" alt="archd2"><figcaption><strong>archd2</strong></figcaption></figure>
-<figure class="source-archive-card"><img src="assets/source-archive/archd3.jpg" loading="lazy" alt="archd3"><figcaption><strong>archd3</strong></figcaption></figure>
-<figure class="source-archive-card"><img src="assets/source-archive/cdi.jpg" loading="lazy" alt="cdi"><figcaption><strong>cdi</strong></figcaption></figure>
-<figure class="source-archive-card"><img src="assets/source-archive/cds1.jpg" loading="lazy" alt="cds1"><figcaption><strong>cds1</strong></figcaption></figure>
-<figure class="source-archive-card"><img src="assets/source-archive/cds2.jpg" loading="lazy" alt="cds2"><figcaption><strong>cds2</strong></figcaption></figure>
-<figure class="source-archive-card"><img src="assets/source-archive/cid.jpg" loading="lazy" alt="cid"><figcaption><strong>cid</strong></figcaption></figure>
-<figure class="source-archive-card"><img src="assets/source-archive/id.jpg" loading="lazy" alt="id"><figcaption><strong>id</strong></figcaption></figure>
-<figure class="source-archive-card"><img src="assets/source-archive/id1.jpg" loading="lazy" alt="id1"><figcaption><strong>id1</strong></figcaption></figure>
-<figure class="source-archive-card"><img src="assets/source-archive/img-6175-jpg.jpg" loading="lazy" alt="img-6175-jpg"><figcaption><strong>img-6175-jpg</strong></figcaption></figure>
-<figure class="source-archive-card"><img src="assets/source-archive/lsucom-front.jpg" loading="lazy" alt="lsucom-front"><figcaption><strong>lsucom-front</strong></figcaption></figure>
-<figure class="source-archive-card"><img src="assets/source-archive/max.jpg" loading="lazy" alt="Arc. Maxwell Ihechineme"><figcaption><strong>Arc. Maxwell Ihechineme</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="1400" height="1050" src="assets/source-archive/20230603-143700.jpg" loading="lazy" alt="20230603-143700"><figcaption><strong>20230603-143700</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="1400" height="925" src="assets/source-archive/archd.jpg" loading="lazy" alt="archd"><figcaption><strong>archd</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="1027" height="675" src="assets/source-archive/archd2.jpg" loading="lazy" alt="archd2"><figcaption><strong>archd2</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="1080" height="700" src="assets/source-archive/archd3.jpg" loading="lazy" alt="archd3"><figcaption><strong>archd3</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="750" height="1000" src="assets/source-archive/cdi.jpg" loading="lazy" alt="cdi"><figcaption><strong>cdi</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="1000" height="750" src="assets/source-archive/cds1.jpg" loading="lazy" alt="cds1"><figcaption><strong>cds1</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="750" height="1000" src="assets/source-archive/cds2.jpg" loading="lazy" alt="cds2"><figcaption><strong>cds2</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="1280" height="958" src="assets/source-archive/cid.jpg" loading="lazy" alt="cid"><figcaption><strong>cid</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="1080" height="810" src="assets/source-archive/id.jpg" loading="lazy" alt="id"><figcaption><strong>id</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="1400" height="1050" src="assets/source-archive/id1.jpg" loading="lazy" alt="id1"><figcaption><strong>id1</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="1400" height="1050" src="assets/source-archive/img-6175-jpg.jpg" loading="lazy" alt="img-6175-jpg"><figcaption><strong>img-6175-jpg</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="1000" height="750" src="assets/source-archive/lsucom-front.jpg" loading="lazy" alt="lsucom-front"><figcaption><strong>lsucom-front</strong></figcaption></figure>
+<figure class="source-archive-card"><img width="1060" height="1400" src="assets/source-archive/max.jpg" loading="lazy" alt="Arc. Maxwell Ihechineme"><figcaption><strong>Arc. Maxwell Ihechineme</strong></figcaption></figure>
 </div>
 </div>
 </div>
 
-<footer><img src="assets/logo.png" alt="Summax Global Investment logo"><span>Summax Global Investment Limited</span><span>© 2026</span></footer>
+<footer><img width="400" height="400" src="assets/logo.png" alt="Summax Global Investment logo"><span>Summax Global Investment Limited</span><span>© 2026</span></footer>
